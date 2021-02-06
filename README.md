@@ -6,7 +6,7 @@ Unofficial - Desktop Version of the World Famous Youtube
 - It's open source because I wanted to make sure that everyone's aware of what you're using
 
 # Installation
-- Check the [Releases](https://github.com/BhavishyaMaheshwari/youtube-dekstop/releases)
+- Check the [Releases](https://github.com/BhavishyaMaheshwari/youtube-desktop/releases)
 - and download the [[[download this]]] file o
 - .exe coming soon
 
