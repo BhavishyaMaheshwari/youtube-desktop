@@ -1,5 +1,7 @@
 # Youtube Dekstop
 Unofficial - Desktop Version of the World Famous Youtube
+It is exactly Same as the youtube which you see on the browser
+Absolutely No diffrence
 
 # Information
 - Many Browser can do this but this doesnt require any browser to work
