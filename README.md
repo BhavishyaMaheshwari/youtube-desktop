@@ -7,7 +7,8 @@ Unofficial - Desktop Version of the World Famous Youtube
 
 # Installation
 - Check the [Releases](https://github.com/BhavishyaMaheshwari/youtube-dekstop/releases)
-- and download the latest versions
+- and download the [[[download this]]] file o
+- .exe coming soon
 
 # Liscence
 - You are allowed to distrubute the software but always mention me in the credits
